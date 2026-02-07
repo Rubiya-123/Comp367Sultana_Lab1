@@ -2,3 +2,6 @@
 bin/
 obj/
 wwwroot/lib/
+obj/
+Properties/
+
